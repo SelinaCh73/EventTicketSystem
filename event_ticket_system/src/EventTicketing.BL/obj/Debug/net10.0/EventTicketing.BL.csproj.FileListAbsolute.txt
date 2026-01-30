@@ -1,0 +1,15 @@
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/obj/Debug/net10.0/EventTicketing.BL.csproj.AssemblyReference.cache
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/obj/Debug/net10.0/EventTicketing.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/obj/Debug/net10.0/EventTicketing.BL.AssemblyInfoInputs.cache
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/obj/Debug/net10.0/EventTicketing.BL.AssemblyInfo.cs
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/obj/Debug/net10.0/EventTicketing.BL.csproj.CoreCompileInputs.cache
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/bin/Debug/net10.0/EventTicketing.BL.deps.json
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/bin/Debug/net10.0/EventTicketing.BL.dll
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/bin/Debug/net10.0/EventTicketing.BL.pdb
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/bin/Debug/net10.0/EventTicketing.DAL.dll
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/bin/Debug/net10.0/EventTicketing.DAL.pdb
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/obj/Debug/net10.0/EventTic.C10D2ACB.Up2Date
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/obj/Debug/net10.0/EventTicketing.BL.dll
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/obj/Debug/net10.0/refint/EventTicketing.BL.dll
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/obj/Debug/net10.0/EventTicketing.BL.pdb
+/Users/bobbydiv/Desktop/event_ticket_system/src/EventTicketing.BL/obj/Debug/net10.0/ref/EventTicketing.BL.dll
